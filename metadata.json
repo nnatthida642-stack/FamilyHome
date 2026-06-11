@@ -1,0 +1,6 @@
+{
+  "name": "Family Finance Manager",
+  "description": "ระบบจัดการการเงินในครอบครัว Mobile First ภาษาไทย คํานวณคะแนนสุขภาพการเงินและวิเคราะห์ข้อมูลด้วย AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
